@@ -1,1 +1,1 @@
-This file contains reosurces for class 
+# This file contains reosurces for class 
